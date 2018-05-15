@@ -6,3 +6,11 @@ background-color:red;
 
     text-align:center;
 }
+
+img{
+    border-style:double;
+    border-width:thick;
+    border-radius:25%;
+    opacity:.8;
+
+}
